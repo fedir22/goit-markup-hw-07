@@ -81,7 +81,7 @@
             border: 1px solid var(--accent-color);
         }
         
-        &__imput:focus+.modal-icon {
+        &__imput:focus+&__icon {
             border-color: var(--accent-color);
             fill: var(--accent-color);
         }
